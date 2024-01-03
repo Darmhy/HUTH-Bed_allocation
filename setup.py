@@ -1,4 +1,4 @@
-"""Setup file for kgh.
+"""Setup file for Huth.
 
 Please note that setup.cfg is used for configuration.
 """
