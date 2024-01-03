@@ -55,6 +55,7 @@ env/
 data/
 *.pkl
 *.csv
+*.xlsx
 
 # Mac OS-specific storage files
 .DS_Store
